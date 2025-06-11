@@ -7,11 +7,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.your-domain">
+    <a href="https://javed1301.github.io/GuessWord-Game/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/guess-the-word-master">
+    <a href="https://github.com/Javed1301/GuessWord-Game">
       Solution
     </a>
     <span> | </span>
